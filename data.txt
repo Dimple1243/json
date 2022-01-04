@@ -1,0 +1,6 @@
+{
+    "Name": "Divya",
+    "Designation": "CEO of  Khurana Industries",
+    "Gender": "Female",
+    "Age": "19"
+}
